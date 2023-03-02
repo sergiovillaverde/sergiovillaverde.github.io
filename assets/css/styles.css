@@ -523,19 +523,23 @@ img{
     width: 70%;
 }
 
-.skills__react{
+.skills__vscode{
     width: 70%;
 }
 
-.skills__material{
+.skills__vmware{
+    width: 70%;
+}
+
+.skills__postman{
     width: 60%;
 }
 
-.skills__javascript{
+.skills__office{
     width: 80%;
 }
 
-.skills__formik{
+.skills__trello{
     width: 60%;
 }
 
