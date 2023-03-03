@@ -401,6 +401,16 @@ img{
     color: var(--first-color-alt);
 }
 
+.boton-formulario{
+    display: inline-block;
+    background-color: var(--first-color);
+    color: #FFF;
+    padding: 1rem;
+    border-radius: .5rem;
+    font-weight: var(--font-medium);
+    font-family: var(--body-font);
+}
+
 /*==================== ABOUT ====================*/
 .about__img{
     width: 200px;
