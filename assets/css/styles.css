@@ -414,6 +414,11 @@ img{
     border: 0px;
 }
 
+.boton-formulario:hover{
+    background-color: transparent;
+    color: var(--first-color-alt);
+}
+
 /*==================== ABOUT ====================*/
 .about__img{
     width: 200px;
