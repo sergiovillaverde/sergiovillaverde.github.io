@@ -600,7 +600,7 @@ img{
 .qualification__title{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
-    max-width: 150px;
+    /* max-width: 150px; */
 }
 
 .qualification__subtitle{
