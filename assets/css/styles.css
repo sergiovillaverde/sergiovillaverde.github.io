@@ -360,7 +360,6 @@ img{
     padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
-    font: 'Poppins';
 }
 
 .button:hover{
