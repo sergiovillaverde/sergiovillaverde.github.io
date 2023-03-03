@@ -411,6 +411,7 @@ img{
     font-size: var(--normal-font-size);
     font-family: var(--body-font);
     align-items: center;
+    border: 0px;
 }
 
 /*==================== ABOUT ====================*/
