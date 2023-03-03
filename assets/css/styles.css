@@ -402,13 +402,14 @@ img{
 }
 
 .boton-formulario{
-    display: inline-block;
+    display: inline-flex;
     background-color: var(--first-color);
     color: #FFF;
     padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
     font-family: var(--body-font);
+    align-items: center;
 }
 
 /*==================== ABOUT ====================*/
