@@ -408,7 +408,7 @@ img{
     padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
-    font-size: var(--big-font-size);
+    font-size: var(--normal-font-size);
     font-family: var(--body-font);
     align-items: center;
 }
