@@ -194,9 +194,9 @@ img{
     font-weight: var(--font-medium);
 }
 
-.nav__logo:hover{
+/* .nav__logo:hover{
     color: var(--first-color);
-}
+} */
 
 .nav__toggle{
     font-size: 1.1rem;
@@ -322,6 +322,7 @@ img{
 
 .home__description{
     margin-bottom: var(--mb-2);
+    /* text-align: left; */
 }
 
 .home__scroll{
@@ -428,7 +429,7 @@ img{
 }
 
 .about__description{
-    text-align: center;
+    text-align: justify;
     margin-bottom: var(--mb-2-5);
 }
 
@@ -525,52 +526,24 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__laravel{
-    width: 80%;
-}
-
-.skills__django{
-    width: 60%;
-}
-
-.skills__php{
+.skills__50{
     width: 50%;
 }
 
-.skills__typescript{
-    width: 70%;
-}
-
-.skills__vscode{
-    width: 70%;
-}
-
-.skills__vmware{
+.skills__60{
     width: 60%;
 }
 
-.skills__postman{
-    width: 60%;
-}
-
-.skills__notion{
+.skills__70{
     width: 70%;
 }
 
-.skills__office{
+.skills__80{
     width: 80%;
 }
 
-.skills__trello{
-    width: 60%;
-}
-
-.skills__mysql{
-    width: 80%;
-}
-
-.skills__graphql{
-    width: 70%;
+.skills__90{
+    width: 90%;
 }
 
 .skills__close .skills__list{
@@ -618,6 +591,7 @@ img{
 .qualification__title{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
+    /* text-align: justify; */
     /* max-width: 150px; */
 }
 
@@ -784,6 +758,7 @@ img{
 
 .portfolio__description{
     margin-bottom: var(--mb-0-75);
+    text-align: justify;
 }
 
 .portfolio__button:hover .button__icon{
